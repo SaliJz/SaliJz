@@ -1,6 +1,7 @@
 # 👋 Hi, I'm SaliJz!
 
 🎮 **GAME DEVELOPER | TECHNICAL GAME DESIGN  |  TECHNICAL QA**
+
 💻 **Intermediate in C# | Basic in PHP, SQL, and HTML**  
 
 ---
