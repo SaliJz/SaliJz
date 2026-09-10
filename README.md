@@ -1,13 +1,11 @@
 # 👋 Hi, I'm SaliJz!
 
-🎮 **Aspiring Game Developer**  
-📚 **Game Development Student**  
+🎮 **GAME DEVELOPER | TECHNICAL GAME DESIGN  |  TECHNICAL QA**
 💻 **Intermediate in C# | Basic in PHP, SQL, and HTML**  
 
 ---
 
 ## 🖼 About Me
-
 
 I'm passionate about creating interactive experiences and exploring the world of game development.  
 Here are some technologies and tools I work with:
@@ -21,6 +19,6 @@ Here are some technologies and tools I work with:
 
 - **Development Tools:**  
   - Visual Studio Code, Visual Studio  
-  - Git, .NET Framework (Basic)
+  - Git, .NET Framework (Intermadiate)
 
 ---
